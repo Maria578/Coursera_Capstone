@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# IBM Data Science Capstone Project on Coursera
 This is a repository for Applied Data Science Capstone project
 
 Part 1 - Segmenting and Clustering Neighborhoods in Toronto
